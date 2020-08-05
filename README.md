@@ -1,1 +1,1 @@
-# monte calro tree search for best arm identification
+# monte calro tree search with best arm identification
